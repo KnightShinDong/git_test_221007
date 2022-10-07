@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	깃테스트 v1.0 테스트2
+	깃테스트 v1.0 테스트23
 </body>
 </html>
